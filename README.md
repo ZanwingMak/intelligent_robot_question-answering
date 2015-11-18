@@ -11,8 +11,8 @@ intelligent robot question-answering
 
 【EXE打包】链接: http://pan.baidu.com/s/1qWouyIw 密码: ckc3
 
-![image](http://i13.tietuku.com/f7deea2ec2eb44f1.png)
-
 API：http://www.tuling123.com/
 
 主要使用库：json、webbrowser、urllib2、PyQt4
+
+![image](http://i13.tietuku.com/f7deea2ec2eb44f1.png)
